@@ -1,0 +1,16 @@
+asgiref==3.3.1
+Cerberus==1.3.2
+click==7.1.2
+Django==3.1.5
+djangorestframework==3.12.2
+Eve==1.1.4
+Events==0.3
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pymongo==3.11.2
+pytz==2020.5
+simplejson==3.17.2
+sqlparse==0.4.1
+Werkzeug==1.0.1
